@@ -86,7 +86,7 @@ BLOG_DESCRIPTION = "Mejorando la salud 1 bit a la vez"  # (translatable)
 # in the default language will be shown instead.
 
 # What is the default language?
-DEFAULT_LANG = "en"
+DEFAULT_LANG = "es"
 
 # What other languages do you have?
 # The format is {"translationcode" : "path/to/translation" }
@@ -187,8 +187,8 @@ POSTS = ()
 #     ("posts/*.html", "posts", "post.tmpl"),
 # )
 PAGES = (
-    ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.rst", "pages", "story.tmpl"),
+    ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.txt", "pages", "story.tmpl"),
     ("pages/*.html", "pages", "story.tmpl"),
 )
@@ -238,7 +238,7 @@ TIMEZONE = "America/Santiago"
 # LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
 # not set the default Nikola mapping is used.
 
-# LOCALES = {}
+LOCALES = {'es':'es_CL.utf-8'}
 # LOCALE_FALLBACK = None
 # LOCALE_DEFAULT = None
 
