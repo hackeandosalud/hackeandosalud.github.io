@@ -21,7 +21,8 @@ BLOG_AUTHOR = "HackeandoSalud Team"  # (translatable)
 BLOG_TITLE = "Hackeando Salud"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://hackeandosalud.github.io/"
+#SITE_URL = "http://hackeandosalud.github.io/"
+SITE_URL = "http://localhost:8000/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://hackeandosalud.github.io/"
@@ -134,15 +135,13 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archivo"),
-        ("/categories/", "Etiquetas"),
-        ("/rss.xml", "Canal RSS"),
+        ("/eventos/", "Eventos"),
+        ("/contacto/", "Contacto"),
     ),
 
     "en": (
-        ("/en/archive.html", "Archive"),
-        ("/en/categories/", "Tags"),
-        ("/en/rss.xml", "RSS feed"),
+        ("/events/", "Events"),
+        ("/contact/", "Contact"),
     ),
 }
 
@@ -187,10 +186,10 @@ POSTS = ()
 #     ("posts/*.html", "posts", "post.tmpl"),
 # )
 PAGES = (
-    ("pages/*.rst", "pages", "story.tmpl"),
-    ("pages/*.md", "pages", "story.tmpl"),
-    ("pages/*.txt", "pages", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
 )
 
 
