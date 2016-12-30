@@ -6,71 +6,71 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://localhost:8000/</loc>
+  <loc>http://hackeandosalud.github.io/</loc>
   <lastmod>2016-12-30T17:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/archive.html</loc>
+  <loc>http://hackeandosalud.github.io/archive.html</loc>
+  <lastmod>2016-12-30T18:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://hackeandosalud.github.io/blog/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/blog/</loc>
+  <loc>http://hackeandosalud.github.io/categories/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/</loc>
-  <lastmod>2016-12-30T12:32:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/contacto/</loc>
+  <loc>http://hackeandosalud.github.io/contacto/</loc>
   <lastmod>2016-12-30T12:34:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/</loc>
+  <loc>http://hackeandosalud.github.io/en/</loc>
   <lastmod>2016-12-30T17:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/archive.html</loc>
+  <loc>http://hackeandosalud.github.io/en/archive.html</loc>
+  <lastmod>2016-12-30T18:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://hackeandosalud.github.io/en/blog/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/blog/</loc>
+  <loc>http://hackeandosalud.github.io/en/categories/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/categories/</loc>
-  <lastmod>2016-12-30T12:32:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/en/contacto/</loc>
+  <loc>http://hackeandosalud.github.io/en/contacto/</loc>
   <lastmod>2016-12-30T12:34:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/equipo/</loc>
+  <loc>http://hackeandosalud.github.io/en/equipo/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/eventos/</loc>
+  <loc>http://hackeandosalud.github.io/en/eventos/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/galleries/</loc>
+  <loc>http://hackeandosalud.github.io/en/galleries/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/equipo/</loc>
+  <loc>http://hackeandosalud.github.io/equipo/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/eventos/</loc>
+  <loc>http://hackeandosalud.github.io/eventos/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/galleries/</loc>
+  <loc>http://hackeandosalud.github.io/galleries/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/</loc>
+  <loc>http://hackeandosalud.github.io/listings/</loc>
   <lastmod>2016-12-30T12:32:00Z</lastmod>
  </url>
 </urlset>
