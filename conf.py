@@ -137,11 +137,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/eventos/", "Eventos"),
         ("/contacto/", "Contacto"),
+        ("/equipo/", "El equipo"),
     ),
 
     "en": (
         ("/events/", "Events"),
         ("/contact/", "Contact"),
+        ("/team/", "The Team"),
     ),
 }
 
