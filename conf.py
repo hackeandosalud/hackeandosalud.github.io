@@ -136,14 +136,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/eventos/", "Eventos"),
-        ("/contacto/", "Contacto"),
         ("/equipo/", "El equipo"),
+        ("/contacto/", "Contacto"),
     ),
 
     "en": (
         ("/events/", "Events"),
-        ("/contact/", "Contact"),
         ("/team/", "The Team"),
+        ("/contact/", "Contact"),
     ),
 }
 
