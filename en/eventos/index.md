@@ -7,13 +7,10 @@
 .. description: Hackeando Salud: Mejorando la salud 1 bit a la vez
 -->
 
-
-Acá van los eventos realizados y por realizar.
-
 Hackeando el cáncer gástrico
 ----------------------------
 
-Realizado el 26 de noviembre de 2016. Bla bla
+El 26 de noviembre de 2016 organizamos el evento ["Hackeando el Cáncer Gástrico"](/hackeando_cancer_gastrico). Fue la primera hackaton organizada por nuestro equipo, y la primera hackaton de hardware médico hecha en Chile.
 
 Brainhack Global 2017
 ---------------------
