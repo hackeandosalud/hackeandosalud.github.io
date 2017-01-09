@@ -6,12 +6,20 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://hackeandosalud.github.io/en/galleries/cg/rss.xml</loc>
+  <lastmod>2017-01-09T09:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://hackeandosalud.github.io/en/galleries/rss.xml</loc>
   <lastmod>2017-01-05T09:02:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://hackeandosalud.github.io/en/rss.xml</loc>
   <lastmod>2017-01-05T09:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://hackeandosalud.github.io/galleries/cg/rss.xml</loc>
+  <lastmod>2017-01-09T09:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://hackeandosalud.github.io/galleries/rss.xml</loc>
@@ -23,6 +31,6 @@
  </sitemap>
  <sitemap>
   <loc>http://hackeandosalud.github.io/sitemap.xml</loc>
-  <lastmod>2017-01-05T09:10:00Z</lastmod>
+  <lastmod>2017-01-09T13:31:00Z</lastmod>
  </sitemap>
 </sitemapindex>
