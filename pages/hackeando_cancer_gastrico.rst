@@ -19,4 +19,5 @@ También estamos muy contentos con haber logrado convocar a tres médicos especi
 
 Por el lado empresarial, contamos con el apoyo de la empresa de equipos médicos `++Zepeda <http://www.zepeda.cl>`_, de `Synopsys <https://www.synopsys.com/>`_ y de la distribuidora de componentes electrónicos `La Caja SMD <http://www.lacajasmd.com/>`_.
 
-
+.. gallery:: cg
+	   
