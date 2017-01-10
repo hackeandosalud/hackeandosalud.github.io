@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://hackeandosalud.github.io/</loc>
-  <lastmod>2017-01-09T14:45:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/archive.html</loc>
@@ -15,19 +15,23 @@
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/blog/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://hackeandosalud.github.io/brainhack_global_2017/</loc>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/categories/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/contacto/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/</loc>
-  <lastmod>2017-01-05T09:10:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/archive.html</loc>
@@ -35,58 +39,62 @@
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/blog/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://hackeandosalud.github.io/en/brainhack_global_2017/</loc>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/categories/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/contacto/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/equipo/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/eventos/</loc>
-  <lastmod>2017-01-05T09:17:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/galleries/</loc>
-  <lastmod>2017-01-09T11:43:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/galleries/cg/</loc>
-  <lastmod>2017-01-09T11:44:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/en/hackeando_cancer_gastrico/</loc>
-  <lastmod>2017-01-09T14:45:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/equipo/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/eventos/</loc>
-  <lastmod>2017-01-05T09:17:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/galleries/</loc>
-  <lastmod>2017-01-09T11:43:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/galleries/cg/</loc>
-  <lastmod>2017-01-09T11:44:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/hackeando_cancer_gastrico/</loc>
-  <lastmod>2017-01-09T14:45:00Z</lastmod>
+  <lastmod>2017-01-10T13:19:00Z</lastmod>
  </url>
  <url>
   <loc>http://hackeandosalud.github.io/listings/</loc>
-  <lastmod>2017-01-05T09:02:00Z</lastmod>
+  <lastmod>2017-01-10T13:18:00Z</lastmod>
  </url>
 </urlset>

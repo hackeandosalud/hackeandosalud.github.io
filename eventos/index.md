@@ -15,4 +15,4 @@ El 26 de noviembre de 2016 organizamos el evento ["Hackeando el Cáncer Gástric
 Brainhack Global 2017
 ---------------------
 
-A realizarze el xx de marzo.
+HackeandoSalud participa de la organización de [Brainhack Global 2017](link://slug/brainhack_global_2017), a realizarse del 3 a 5 de marzo de 2017.
