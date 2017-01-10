@@ -19,4 +19,11 @@ También estamos muy contentos con haber logrado convocar a tres médicos especi
 
 Por el lado empresarial, contamos con el apoyo de la empresa de equipos médicos `++Zepeda <http://www.zepeda.cl>`_, de `Synopsys <https://www.synopsys.com/>`_ y de la distribuidora de componentes electrónicos `La Caja SMD <http://www.lacajasmd.com/>`_.
 
+Las siguientes son algunas notas de prensa del evento:
 
+* `Radio Cooperativa <https://www.cooperativa.cl/noticias/tecnologia/industria/valparaiso-realizo-la-primera-hackaton-de-hardware-medico-en-chile/2016-11-27/150606.html>`_
+* `Universidad de Valparaíso <http://www.uv.cl/pdn/?id=8258>`_
+* `Universidad Técnica Federico Santa María <http://www.noticias.usm.cl/2016/12/07/usm-fue-uno-de-los-organizadores-de-exitosa-primera-hackaton-de-hardware-medico-en-chile/>`_
+* `Advanced Center for Electrical and Electronics Engineering (AC3E) <http://www.ac3e.cl/index.php/es/news/item/349-exitosa-primera-hackaton-de-hardware-medico-en-chile>`_
+	   
+También puedes visitar la `galería de fotos del evento <link://gallery/cg>`_.
