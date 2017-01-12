@@ -41,5 +41,15 @@ Una de las características del modelo distribuido de la conferencia *Brainhack*
 Programa (preliminar)
 ---------------------
 
+.. image:: /images/programa_brainhack.png
+   :width: 800
+   :align: center   
 
-(pronto)
+
+.. raw:: html
+	 
+	 <embed>
+	 <div class="text-center"> 
+	 <a class="btn btn-primary btn-lg get-started" href="https://goo.gl/forms/z9L6hPEf5Zpemmxo2" role="button">Inscríbete acá!</a>
+	 </div>
+	 </embed>
