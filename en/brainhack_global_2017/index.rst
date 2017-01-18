@@ -36,7 +36,7 @@ Una de las características del modelo distribuido de la conferencia *Brainhack*
 	 </div>
 	 </embed>
 
-
+|
 
 Programa (preliminar)
 ---------------------
@@ -45,11 +45,23 @@ Programa (preliminar)
    :width: 800
    :align: center   
 
+|
 
 .. raw:: html
-	 
+
 	 <embed>
 	 <div class="text-center"> 
 	 <a class="btn btn-primary btn-lg get-started" href="https://goo.gl/forms/z9L6hPEf5Zpemmxo2" role="button">Inscríbete acá!</a>
 	 </div>
 	 </embed>
+
+
+
+
+
+|
+|
+
+.. image:: /images/brainhack_organiza_auspicia.png
+   :width: 800
+   :align: center
