@@ -36,6 +36,16 @@ Una de las características del modelo distribuido de la conferencia *Brainhack*
 	 </div>
 	 </embed>
 
+:Preguntas Frecuentes:
+   - ¿Me puedes contar más sobre Brainhack? Revisa `este artículo <https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x>`_ para más información.
+   - ¿Cuáles son algunos ejemplos de proyectos en los que se podría trabajar?
+     
+     * Trabajar en equipos en tutoriales relativos a herramientas computacionales de código abierto utilizadas en neurociencia.
+     * Aprender a utilizar algunas plataformas para la adquisición de datos electrofisiológicos, tales como `OpenBCI <http://openbci.com/>`_ y `Muscle SpikerBox <https://backyardbrains.com/products/muscleSpikerbox>`_.
+     * Agregar alguna funcionalidad a alguna herramienta open source de tu interés.
+     * Construir nuevas colaboraciones entre personas de distintas áreas e instituciones.
+     * Utilizar la red global de brainhack para acceder a datos disponibles para ser analizados.
+
 |
 
 Programa (preliminar)
